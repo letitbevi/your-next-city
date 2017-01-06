@@ -6,7 +6,7 @@ Visualize top 20 related news categories from 2007 to 2016
 
 The [data](https://github.com/letitbevi/your-next-city/tree/master/MiddleEast/Dubai/data) folder contains 10 JSON files that I scraped from [The Guardian](https://www.theguardian.com/):
 
-| File Name        | Num of Documents  |  Num of sentences that mentioned `San Francisco` |
+| File Name        | Num of Documents  |  Num of sentences that mentioned `Dubai` |
 | ------------- |:-------------:|:-----:|
 | `2007_Dubai_news.json`  | 727 | 1329 |
 | `2008_Dubai_news.json`  | 1079 | 1799 |

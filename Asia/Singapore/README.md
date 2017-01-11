@@ -1,6 +1,7 @@
 # Singapore 
 
-![Singapore](https://github.com/letitbevi/your-next-city/blob/master/Asia/Singapore/singapore.png)
+# ![Singapore](https://github.com/letitbevi/your-next-city/blob/master/Asia/Singapore/singapore.png)
+
 Visualize top 20 related news categories from 2007 to 2016
 
 ## Data

@@ -1,4 +1,6 @@
-# Hong Kong ![Hong Kong](https://github.com/letitbevi/your-next-city/blob/master/Asia/Hong_Kong/Hong_Kong.png)
+# Hong Kong 
+
+# ![Hong Kong](https://github.com/letitbevi/your-next-city/blob/master/Asia/Hong_Kong/Hong_Kong.png)
 
 Visualize top 20 related news categories from 2007 to 2016
 

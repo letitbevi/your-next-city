@@ -6,7 +6,7 @@ Visualize top 20 related news categories from 2007 to 2016
 
 # Data
 
-The [data](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/data) folder contains 10 JSON files that I scraped from [The Guardian](https://www.theguardian.com/):
+The [data](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/data) folder contains 10 JSON files that I scraped from [The Guardian](https://www.theguardian.com/):
 
 | File Name        | Num of Documents  |  Num of sentences that mentioned `Tel Aviv` |
 | ------------- |:-------------:|:-----:|

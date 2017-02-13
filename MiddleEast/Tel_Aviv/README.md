@@ -22,7 +22,7 @@ The [data](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Te
 | `2016_Tel_Aviv_news.json`  | 154 | 252 |
 | `ALL`  | 2236 | 3139 |
 
-Trends related to Tel Aviv from 2007 to 2016
+# Trends related to Tel Aviv from 2007 to 2016
 
 ![2007-2016_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2007-2016_Tel_Aviv_Top_20_News_Categories.png)
 

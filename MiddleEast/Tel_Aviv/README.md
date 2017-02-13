@@ -10,29 +10,39 @@ The [data](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Te
 
 | File Name        | Num of Documents  |  Num of sentences that mentioned `Tel Aviv` |
 | ------------- |:-------------:|:-----:|
-| `ALL`  | 0 | 0 |
+| `2007_Tel_Aviv_news.json`  | 383 | 523 |
+| `2008_Tel_Aviv_news.json`  | 251 | 335 |
+| `2009_Tel_Aviv_news.json`  | 251 | 359 |
+| `2010_Tel_Aviv_news.json`  | 228 | 312 |
+| `2011_Tel_Aviv_news.json`  | 170 | 236 |
+| `2012_Tel_Aviv_news.json`  | 198 | 295 |
+| `2013_Tel_Aviv_news.json`  | 173 | 211 |
+| `2014_Tel_Aviv_news.json`  | 225 | 328 |
+| `2015_Tel_Aviv_news.json`  | 203 | 288 |
+| `2016_Tel_Aviv_news.json`  | 154 | 252 |
+| `ALL`  | 2236 | 3139 |
 
 Trends related to Tel Aviv from 2007 to 2016
 
-![2007-2016_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2007-2016_Tel Aviv_Top_20_News_Categories.png)
+![2007-2016_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2007-2016_Tel_Aviv_Top_20_News_Categories.png)
 
-![2007_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2007_Tel Aviv_Top_20_News_Categories.png)
+![2007_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2007_Tel_Aviv_Top_20_News_Categories.png)
 
-![2008_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2008_Tel Aviv_Top_20_News_Categories.png)
+![2008_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2008_Tel_Aviv_Top_20_News_Categories.png)
 
-![2009_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2009_Tel Aviv_Top_20_News_Categories.png)
+![2009_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2009_Tel_Aviv_Top_20_News_Categories.png)
 
-![2010_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2010_Tel Aviv_Top_20_News_Categories.png)
+![2010_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2010_Tel_Aviv_Top_20_News_Categories.png)
 
-![2011_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2011_Tel Aviv_Top_20_News_Categories.png)
+![2011_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2011_Tel_Aviv_Top_20_News_Categories.png)
 
-![2012_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2012_Tel Aviv_Top_20_News_Categories.png)
+![2012_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2012_Tel_Aviv_Top_20_News_Categories.png)
 
-![2013_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2013_Tel Aviv_Top_20_News_Categories.png)
+![2013_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2013_Tel_Aviv_Top_20_News_Categories.png)
 
-![2014_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2014_Tel Aviv_Top_20_News_Categories.png)
+![2014_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2014_Tel_Aviv_Top_20_News_Categories.png)
 
-![2015_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2015_Tel Aviv_Top_20_News_Categories.png)
+![2015_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2015_Tel_Aviv_Top_20_News_Categories.png)
 
-![2016_Tel Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel Aviv/fig/2016_Tel Aviv_Top_20_News_Categories.png)
+![2016_Tel_Aviv_Top_20_News_Categories](https://github.com/letitbevi/your-next-city/blob/master/MiddleEast/Tel_Aviv/fig/2016_Tel_Aviv_Top_20_News_Categories.png)
 
